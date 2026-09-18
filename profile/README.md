@@ -23,7 +23,7 @@ Published as TSV and JSON. CC BY 4.0.
 
 → [bible-cross-references](https://github.com/CrossReferences-org/bible-cross-references)  
 
-There is a [live Bible reader](https://crossreferences.org/tsk/) built on this data. 
+There is a [live Bible reader](https://crossreferences.org/tsk/42/11/BSB/) built on this data. 
 Use it for study, or as the quickest way to see what anchoring makes possible.
 
 ## Sandbox
