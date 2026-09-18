@@ -17,10 +17,14 @@ I say this to encourage you in your own study of God's Word, as well as to give 
 what manner of study you are aiming to facilitate in the software that you build for others.
 
 ## Cross-references
-Phrase-level cross-references from the Treasury of Scripture Knowledge, re-anchored to each translation's 
-(KJV, BSB, AOV, Segond 21) own wording and versification, and published as TSV and JSON. CC BY 4.0.  
+Phrase-level cross-references from the Treasury of Scripture Knowledge, re-anchored to each translation's
+(KJV, BSB, AOV, Segond 21) own wording and versification, with multi-verse references kept whole. 
+Published as TSV and JSON. CC BY 4.0.
 
-→ [bible-cross-references](https://github.com/CrossReferences-org/bible-cross-references)
+→ [bible-cross-references](https://github.com/CrossReferences-org/bible-cross-references)  
+
+There is a [live Bible reader](https://crossreferences.org/tsk/) built on this data. 
+Use it for study, or as the quickest way to see what anchoring makes possible.
 
 ## Sandbox
 Ideas, allowed to come to life without the burden of being perfect. The first is the ConnectionExplorer, 
