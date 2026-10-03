@@ -23,9 +23,12 @@ Published as TSV and JSON. CC BY 4.0.
 
 → [bible-cross-references](https://github.com/CrossReferences-org/bible-cross-references)  
 
+## Reader  
 There is a [live Bible reader](https://crossreferences.org/read/42/11/BSB/) built on this data. 
 Use it for study, or as the quickest way to see what anchoring makes possible.
-Its code is a [template](https://github.com/CrossReferences-org/reader-template) for building your own.
+
+Its code is a *template* for building your own.  
+→ [template](https://github.com/CrossReferences-org/reader-template)
 
 ## Sandbox
 Ideas, allowed to come to life without the burden of being perfect. The first is the ConnectionExplorer, 
